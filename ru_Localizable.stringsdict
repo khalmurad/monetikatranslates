@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>transactions count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@v1_transactions_count@</string>
+		<key>v1_transactions_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Нет транзакций</string>
+			<key>one</key>
+			<string>%d транзакция</string>
+			<key>few</key>
+			<string>%d транзакции</string>
+			<key>many</key>
+			<string>%d транзакций</string>
+			<key>other</key>
+			<string>%d транзакции</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

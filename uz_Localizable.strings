@@ -1,0 +1,867 @@
+/* 
+  Localizable.strings
+  CashBox
+
+  Created by Александр Кириллов on 7/12/19.
+  Copyright © 2019 Александр Кириллов. All rights reserved.
+*/
+
+// Currencies
+"ADP" = "Andora Pesetasi";
+"AED" = "Birlashgan Arab Amirliklari Dirhami";
+"AFN" = "Afgʻon Afghonisi";
+"ALL" = "Armaniya Leksi";
+"AMD" = "Arman Dram";
+"ANG" = "Gollandiya Antiller Gilderi";
+"AOA" = "Angola Kuanzasi";
+"ARA" = "Argentinka Australi";
+"ARS" = "Argentinka Pesosi";
+"ATS" = "Avstriya Shilingi";
+"AUD" = "Avstraliya Dollari";
+"AWG" = "Aruba Florini";
+"AZN" = "Ozarbayjon Manati";
+"BAM" = "Bosniya-Gersegovina Konvertatsion Markasi";
+"BBD" = "Barbados Dollari";
+"BDT" = "Bangladeş Tkasi";
+"BEF" = "Belgiya Franksi";
+"BGL" = "Bolgariya Qattiq Levi";
+"BGM" = "Bolgariya Sotsialistik Levi";
+"BGN" = "Bolgariya Levi";
+"BHD" = "Bahrayn Dinaari";
+"BIF" = "Burundi Franksi";
+"BMD" = "Bermuda Dollari";
+"BND" = "Brunei Dollari";
+"BOB" = "Boliviya Bolivianosi";
+"BOP" = "Boliviya Pesosi";
+"BOV" = "Boliviya Mvdoli";
+"BRL" = "Braziliya Reali";
+"BSD" = "Bahamalar Dollari";
+"BTN" = "Bhutan Ngultrumi";
+"BUK" = "Myanmaya Kyati";
+"BWP" = "Botsvana Pulasi";
+"BYN" = "Belarus Rubli";
+"BZD" = "Belize Dollari";
+"CAD" = "Kanada Dollari";
+"CDF" = "Kongo Franksi";
+"CHE" = "WIR Yevrosi";
+"CHF" = "Shveytsariya Franksi";
+"CHW" = "WIR Franksi";
+"CLE" = "Chili Eskudosi";
+"CLF" = "Chili Hisob Birligi (UF)";
+"CLP" = "Chili Pesosi";
+"CNX" = "Xitoy Xalq Banki Dollari";
+"CNY" = "Xitoy Yuani";
+"COP" = "Kolumbiya Pesosi";
+"COU" = "Kolumbiya Real Qiymati Birligi";
+"CRC" = "Kostarika Koloni";
+"CSK" = "Chexoslovakiya Qattiq Korunasi";
+"CUC" = "Kuba Konvertatsion Pesosi";
+"CUP" = "Kuba Pesosi";
+"CVE" = "Kabo-Verde Eskudosi";
+"CYP" = "Kipr Funtligi";
+"CZK" = "Chex Korunasi";
+"DDM" = "Sharqiy Germaniya Markasi";
+"DEM" = "Germaniya Markasi";
+"DJF" = "Jibuti Frangisi";
+"DKK" = "Daniya Kronasi";
+"DOP" = "Dominikan Pesosi";
+"DZD" = "Jazoir Dinori";
+"ECS" = "Ekvador Shukresi";
+"ECV" = "Ekvador Doimiy Qiymat Birligi";
+"EEK" = "Estoniya Kronasi";
+"EGP" = "Misr Funtligi";
+"ERN" = "Eritre Nakfasi";
+"ESP" = "Ispan Pesetasi";
+"ETB" = "Etiyopiya Birri";
+"EUR" = "Evro";
+"FIM" = "Finlyandiya Markkasi";
+"FJD" = "Fiji Dollori";
+"FKP" = "Falkland orollari Funtligi";
+"FRF" = "Fransiya Frangisi";
+"GBP" = "Britaniya Funtligi";
+"GEK" = "Gruziya Kupon Lariti";
+"GEL" = "Gruziya Lari";
+"GHS" = "Gana Sedi";
+"GIP" = "Gibraltar Funtligi";
+"GMD" = "Gambiya Dalasi";
+"GNF" = "Gvine Frangisi";
+"GNS" = "Gvine Sili";
+"GQE" = "Ekvatorial Gvine Ekvele";
+"GRD" = "Gretsiya Darakmisi";
+"GTQ" = "Gvatemala Kvetsali";
+"GWE" = "Portugaliya Gvine Eskudosi";
+"GWP" = "Gvine-Bissau Pesosi";
+"GYD" = "Gvayana Dollori";
+"HKD" = "Gonkong Dollori";
+"HNL" = "Xonduras Lempirasi";
+"HRD" = "Xorvatiya Dinori";
+"HRK" = "Xorvatiya Kuna";
+"HTG" = "Hayiti Gurdosi";
+"HUF" = "Vengriya Forinti";
+"IDR" = "Indoneziya Rupiyasi";
+"IEP" = "Irlandiya Funtligi";
+"ILP" = "Isroil Funtligi";
+"ILS" = "Isroil Yangi Shekel";
+"INR" = "Indiya Rupiyasi";
+"IQD" = "Iroq Dinori";
+"IRR" = "Eron Riali";
+"ISK" = "Islandiya Krunasi";
+"ITL" = "Italiya Lirasi";
+"JMD" = "Yamaikan dollari";
+"JOD" = "Iordaniy dinori";
+"JPY" = "Yapon yeni";
+"KES" = "Keniyalik shilingi";
+"KGS" = "Qirg'iz so'mi";
+"KHR" = "Kambodj rieli";
+"KMF" = "Komor frangisi";
+"KPW" = "Shimoliy Koreya Woni";
+"KRW" = "Janubiy Koreya Woni";
+"KWD" = "Quvayt dinori";
+"KYD" = "Kayman orollari dollari";
+"KZT" = "Qozog'iston tengesi";
+"LAK" = "Laos kipi";
+"LBP" = "Livan funti";
+"LKR" = "Shri-Lanka rupiyasi";
+"LRD" = "Liberiya dollari";
+"LSL" = "Letso loti";
+"LTL" = "Litva litasi";
+"LTT" = "Litva talonasi";
+"LUC" = "Lyuksemburg konvertatsiyali frangasi";
+"LUF" = "Lyuksemburg frangasi";
+"LUL" = "Lyuksemburg moliyaviy frangasi";
+"LVL" = "Letoniya lati";
+"LVR" = "Letoniya rublasi";
+"LYD" = "Liviya dinori";
+"MAD" = "Marokash dirhami";
+"MAF" = "Marokash frangisi";
+"MCF" = "Monako frangisi";
+"MDC" = "Moldova kuponi";
+"MDL" = "Moldova lei";
+"MGA" = "Madagaskar ariari";
+"MGF" = "Madagaskar frangisi";
+"MKD" = "Makedoniya denori";
+"MLF" = "Mali frangisi";
+"MMK" = "Myanma kyati";
+"MNT" = "Mo'g'ul tumg'iri";
+"MOP" = "Makao patakasi";
+"MRO" = "Mavritaniy ogiyasi";
+"MTL" = "Malta lirani";
+"MTP" = "Malta funti";
+"MUR" = "Mauritiya rupiyasi";
+"MVR" = "Maldiv rupiyasi";
+"MWK" = "Malavi kvachasi";
+"MXN" = "Meksika pesosi";
+"MXV" = "Meksika investitsiya birligi";
+"MYR" = "Malayziya ringgiti";
+"MZE" = "Mozambik eskudosi";
+"MZN" = "Mozambik metyikali";
+"NAD" = "Namibiya dollari";
+"NGN" = "Nigeriya nairasi";
+"NIO" = "Nikaragva Kordobasi";
+"NLG" = "Gollandiyalik Gilderi";
+"NOK" = "Norvegiyalik Kronasi";
+"NPR" = "Nepallik Rupiyasi";
+"NZD" = "Yangi Zelandiya Dollari";
+"OMR" = "Omanlik Riali";
+"PAB" = "Panamalik Balboasi";
+"PEI" = "Peruviyalik Inti";
+"PEN" = "Peruviyalik Soli";
+"PGK" = "Papua-Yangi Gvineyaalik Kinali";
+"PHP" = "Filippinlik Peso";
+"PKR" = "Pokistonlik Rupiyasi";
+"PLN" = "Polsha Zlotyi";
+"PTE" = "Portugallik Escudo";
+"PYG" = "Paragvaylik Guarani";
+"QAR" = "Qatarlik Riali";
+"RHD" = "Rodesiyaalik Dollari";
+"RON" = "Ruminiyalik Leu";
+"RSD" = "Serbiyalik Dinar";
+"RUB" = "Ruslik Rubl";
+"RWF" = "Rivandalik Frang";
+"SAR" = "Saudiya Riyali";
+"SBD" = "Solomon orollari Dollari";
+"SCR" = "Seysheyllik Rupiyasi";
+"SDG" = "Sudanlik Funti";
+"SEK" = "Shvetsiyalik Kronasi";
+"SGD" = "Singapur Dollari";
+"SHP" = "Sent-Yelenalik Funti";
+"SIT" = "Sloveniyaalik Tolari";
+"SKK" = "Slovak Korunasi";
+"SLL" = "Syerra-Leoniyaalik Leone";
+"SOS" = "Somaliyaalik Shiling";
+"SRD" = "Surinamlik Dollari";
+"SRG" = "Surinamlik Gilderi";
+"SSP" = "Janubiy Sudanlik Funti";
+"STD" = "San-Tome va Prinsipe Dobrasi";
+"SUR" = "Sovet Rubl";
+"SVC" = "Salvadoralik Koloni";
+"SYP" = "Suriyaalik Funti";
+"SZL" = "Svazilendalik Lilangeni";
+"THB" = "Taylandlik Baht";
+"TJR" = "Tojikistonlik Rubl";
+"TJS" = "Tojikistonlik Somoni";
+"TMT" = "Turkmanistonlik Manat";
+"TND" = "Tunislik Dinar";
+"TOP" = "Tonga Paʻanga";
+"TPE" = "Timorlik Escudo";
+"TRY" = "Turk Lirasi";
+"TTD" = "Trinidad va Tobago Dollari";
+"TWD" = "Yangi Tayvan Dollari";
+"TZS" = "Tanzaniyalik Shiling";
+"UAH" = "Ukraynalik Grivnya";
+"UAK" = "Ukraynalik Karbovanets";
+"UGX" = "Ugandalik Shiling";
+"USD" = "AQSh dollari";
+"UYU" = "Urugvay Pesosi";
+"UZS" = "O‘zbekiston Somi";
+"VEF" = "Venesuelalik Bolivar";
+"VND" = "Vetnam Dongi";
+"VUV" = "Vanuatu Vatu";
+"WST" = "Samoa Talasi";
+"XAF" = "Markaziy Afrika CFA Frangi";
+"XCD" = "Sharqiy Karib dollari";
+"XEU" = "Yevropa Valyuta Birligi";
+"XFO" = "Fransuz oltin frangı";
+"XFU" = "Fransuz UIC frangı";
+"XOF" = "G‘arbiy Afrika CFA Frangi";
+"XPF" = "CFP Frangi";
+"XRE" = "RINET Fonslari";
+"YDD" = "Yamaniy dinori";
+"YER" = "Yamaniy riali";
+"ZAR" = "Janubiy Afrika Randı";
+"ZMW" = "Zambiya Kvaçası";
+
+// Onboarding
+"Privacy Policy" = "Maxfiylik siyosati";
+"Terms of Service" = "Xizmat ko‘rsatish shartlari";
+
+// Sign Up
+"Please complete all fields" = "Iltimos, barcha maydonlarni to‘ldiring";
+
+// Main Currency Controller
+"NEXT" = "KEYINGISI";
+"Main currency" = "Asosiy valyuta";
+"Choose your main currency" = "Asosiy valyutangizni tanlang";
+"Statistics, budget and common balance will be calculated according to the main currency" = "Statistikalar, budjetlar va umumiy balans asosiy valyutaga ko‘ra hisoblanadi";
+
+// Check Email
+"OK" = "OK";
+
+// Initial Balance
+"DONE" = "TAYYOR";
+"Current balance" = "Joriy balans";
+"current balance" = "joriy balans";
+"Cash" = "Naqd pul";
+
+// Back Up
+"BACK UP NOW" = "Zaxira yaratish";
+"Backup" = "Zaxira";
+"Save backup" = "Zaxirani saqlash";
+"none" = "hech narsa";
+"Last transaction date: " = "So‘nggi tranzaksiya sanasi:";
+"Back up your transactions so if you lose your iPhone or switch to a new one, your transactions are safe. You can restore your transactions when you reinstall %@" = "Tranzaksiyalarni zaxiralang. Agar siz qurilmani yo‘qotsangiz yoki yangisiga almashtirsangiz, tranzaksiyalaringiz saqlanadi. %@ ni qayta o‘rnatganingizda tranzaksiyalaringizni tiklashingiz mumkin.";
+
+// Restore Back Up
+"RESTORE NOW" = "QAYTARISH";
+"Backup" = "Zaxira";
+"Restore" = "Qaytarish";
+"Restore data from your backup" = "Ma'lumotlarni zaxirangizdan qaytarish";
+"Warning" = "Ogohlantirish";
+"Skip" = "O‘tkazib yuborish";
+"Restore now" = "Hozir qaytarish";
+"Error" = "Xato";
+
+// Settings
+"Settings" = "Sozlamalar";
+"MAIN CURRENCY" = "ASOSIY VALYUTA";
+"LANGUAGE" = "TIL";
+"Privacy and Security" = "Maxfiylik va xavfsizlik";
+"Cancel" = "Bekor qilish";
+"APP SETTINGS" = "ILOVA SOZLAMALARI";
+"Default currency" = "Standart valyuta";
+"Language" = "Til";
+"More" = "Ko‘proq";
+"Feedback" = "Fikr-mulohaza";
+
+// Delete Account
+"Delete" = "O‘chirish";
+
+// About
+"About us" = "Biz haqimizda";
+"We are trying to make a simple and convenient app for personal finances accounting." = "Biz shaxsiy moliya hisob-kitobi uchun foydalanuvchi uchun qulay va sodda mobil ilova yaratishga harakat qilamiz.";
+"We respect your privacy. We do not store your data on our servers. All your transactions, accounts and statistics will be stored only on your device with the ability to create a backup." = "Biz sizning maxfiyligingizni hurmat qilamiz. Biz sizning ma'lumotlaringizni serverlarimizda saqlamaymiz. Sizning barcha tranzaktsiyalaringiz, hisoblaringiz va statistikangiz faqat sizning qurilmangizda saqlanadi va zaxiralash mumkin.";
+"Version" = "Versiya";
+"RATE US ON APP STORE" = "ILOVANI APP STORE’DA baholang";
+
+// Languages
+"Select language" = "Tilni tanlang";
+"Save" = "Saqlash";
+
+// Profile
+"Edit" = "Tahrirlash";
+"Rate us on App Store" = "App Store’da baholang";
+"Restore subscription" = "Obunani tiklash";
+"Privacy Policy-full" = "Maxfiylik siyosati";
+"Terms of Service-full" = "Foydalanish shartlari";
+"Chat with us" = "Biz bilan suhbatlashish";
+"Dark theme" = "Qorong‘i mavzu";
+"Reminders" = "Eslatmalar";
+"Time for reminders" = "Eslatmalar vaqti";
+"System" = "Tizim";
+"Always use" = "Har doim ishlatish";
+"Never use" = "Hech qachon ishlatmaslik";
+
+// Category Types
+"Categories" = "Kategoriyalar";
+"Incomes categories" = "Daromad kategoriyalari";
+
+// Premium Slider
+"Unlimited budgeting" = "Cheksiz byudjetlar";
+"Unlimited expenses categories" = "Cheksiz xarajat kategoriyalari";
+"Unlimited incomes categories" = "Cheksiz daromad kategoriyalari";
+"Unlimited categories" = "Cheksiz kategoriyalar";
+"Multicurrency" = "Ko'p valyutali qo'llab-quvvatlash";
+"Unlimited accounts" = "Cheksiz hisoblar";
+"Transfer between accounts" = "Hisoblar o'rtasida o'tkazma";
+"Sync with iCloud" = "iCloud bilan sinxronlashtirish";
+"Debts" = "Qarzlar";
+"Goals" = "Maqsadlar";
+"soon" = "tez orada";
+"Premium status" = "Premium statusi";
+"Subscribe now" = "Obuna";
+"Get access to all features with" = "Barcha funksiyalarga kirish huquqini oling";
+"Premium Version" = "Premium versiyasi";
+"ANNUAL PLAN" = "YILLIK REJA";
+"Save 30%" = "30% tejash";
+"Only %@ / billed annually" = "Faqat %@ / yillik to‘lov";
+" after 14-day trial period" = "14 kunlik sinov davridan so‘ng";
+"START 14-DAY FREE TRIAL" = "14 KUNLIK BEPUL SINOVNI BOSHLASH";
+"Then only %@/month" = "Keyin faqat %@/oy";
+"then %@ annualy" = "keyin %@ yillik";
+"Payment will be charged to your Apple ID account at the confirmation of purchase. The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your App Store account settings after purchase." = "To'lov sizning Apple ID hisobingizdan xarid tasdiqlanganda olinadi. Obuna avtomatik ravishda yangilanadi, agar joriy davr tugashidan kamida 24 soat oldin bekor qilinmasa. Hisobingiz joriy davr tugashidan oldin 24 soat ichida yangilanish uchun to'lanadi. Siz xariddan keyin App Store hisob sozlamalariga o'tib, obunalaringizni boshqarishingiz va bekor qilishingiz mumkin.";
+"day-daily" = "/ kun";
+"week-weekly" = "/ hafta";
+"month-monthly" = "/ oy";
+"year-yearly" = "/ yil";
+"MONTHLY PLAN" = "Oylik Reja";
+"Only %@ %@" = "Faqat %@ %@";
+" after %@-year trial period" = "%@ yil sinov muddatidan keyin";
+" after %@-month trial period" = "%@ oy sinov muddatidan keyin";
+" after %@-week trial period" = "%@ hafta sinov muddatidan keyin";
+" after %@-day trial period" = "%@ kun sinov muddatidan keyin";
+
+// Manage Subscription
+"Restore your subscription" = "Obunani tiklash";
+
+// Restore Subscription
+"You can restore %@ payments in App Store using your Apple ID. It is free and usually takes a few minutes." = "Apple ID orqali %@ da xaridlaringizni tiklashingiz mumkin. Bu bepul va odatda bir necha daqiqa vaqt oladi.";
+"Email us if you have any problems or questions" = "Iltimos, muammolar yoki savollar bo'lsa, bizga xabar bering";
+"Contact with support" = "Qo'llab-quvvatlash jamoasi bilan bog'laning";
+
+
+// Change Password
+"SAVE" = "SAQLASH";
+
+
+// Setup Budget
+"SAVE BUDGET" = "BYUDJETNI SAQLASH";
+"Set up a weekly budget goal" = "Haftalik byudjetni belgilang";
+"Set up a monthly budget goal" = "Oylik byudjetni belgilang";
+"Budget updated successfully" = "Byudjet yangilandi";
+"Budget created successfully" = "Byudjet yaratildi";
+"Delete budget" = "Byudjetni o'chirish";
+"Are you sure you want to delete this budget?" = "Ushbu byudjetni o'chirishga ishonchingiz komilmi?";
+"Budget deleted successfully" = "Byudjet o'chirildi";
+
+// Budgets
+"My budget" = "Mening byudjetim";
+"Monthly total budget:" = "Oylik umumiy byudjet:";
+"Weekly total budget:" = "Haftalik umumiy byudjet:";
+"Monthly budget not set yet" = "Oylik byudjet hali belgilanmagan";
+"Weekly budget not set yet" = "Haftalik byudjet hali belgilanmagan";
+"%@ spent" = "%@ sarflandi";
+
+// Budget Settings
+"Budget settings" = "Byudjet sozlamalari";
+"Monthly" = "Oy";
+"Weekly" = "Hafta";
+"Budgeting period" = "Byudjet davri";
+"First day of the month" = "Oyning birinchi kuni";
+"Starting on" = "Shundan boshlab";
+
+// Period
+"This month" = "Bu oy";
+"This week" = "Bu hafta";
+"Last month" = "O'tgan oy";
+"Last week" = "O'tgan hafta";
+"This year" = "Bu yil";
+"Last year" = "O'tgan yil";
+"All the time" = "Butun vaqt davomida";
+"Custom" = "Davrni tanlang";
+
+// Custom Date
+"Choose period" = "Davrni tanlang";
+"Done" = "Tayyor";
+"From" = "Dan";
+"To" = "Gacha";
+
+// Transactions
+"Transactions" = "Tranzaktsiyalar";
+
+// Current Period
+"TODAY" = "BUGUN";
+"YESTERDAY" = "KECHAGI";
+"Delete transaction" = "Tranzaktsiyani o'chirish";
+"Transaction recovery will be unavailable. Do you want to proceed?" = "Tranzaktsiyani tiklash imkoniyati bo‘lmaydi. Davom etishni xohlaysizmi?";
+"Transaction deleted successfully" = "Tranzaktsiya o‘chirildi";
+"Not enough data for statistics" = "Statistika uchun yetarli ma'lumot mavjud emas";
+"Add transactions and statistics will appear" = "Tranzaktsiyalar qo‘shing va statistika paydo bo‘ladi";
+"Expenses" = "Xarajatlar";
+"expenses" = "xarajatlar";
+"Incomes" = "Kirimlar";
+"incomes" = "kirimlar";
+
+// Statistics
+"Statistics" = "Statistika";
+"Add 3 transactions to see your statistics" = "Statistikangizni ko‘rish uchun 3 ta tranzaktsiya qo‘shing";
+
+// Adjust Balance
+"ADJUST BALANCE" = "BALANSNI O'ZGARTIRISH";
+"Adjust balance" = "Balansni o‘zgartirish";
+"If you didn't manage expenses for some period of time you can adjust the balance" = "Agar bir necha vaqt davomida hech qanday xarajatlarni qayd etmagan bo‘lsangiz, faqat balansni joriy holatga o‘zgartiring";
+"Balance adjusted successfully" = "Balans o‘zgartirildi";
+
+// Transfer
+"TRANSFER" = "KO‘CHIRISH";
+"Insufficient funds in the account" = "Hisobda yetarli mablag‘ yo‘q";
+"Money transfered successfully" = "Mablag‘lar o‘tkazildi";
+"To-transfer" = "Kimga";
+"From-transfer" = "Kimdan";
+
+// Category
+"Groceries" = "Mahsulotlar";
+"Child" = "Bolalar parvarishi";
+"Cafes" = "Kafelar";
+"Big purchases" = "Katta xaridlar";
+"Entertainment" = "Ko'ngilochar";
+"Health" = "Sog‘liq";
+"Other" = "Boshqa";
+"Car" = "Avtomobil";
+"Transport" = "Transport";
+"Sport" = "Sport";
+"Payments" = "To‘lovlar";
+"Education" = "Ta'lim";
+"Parents" = "Ota-onalar";
+"Clothes" = "Kiyimlar";
+"Gifts" = "Sovg‘alar";
+"Family" = "Oila";
+"Internet" = "Internet";
+"Business" = "Biznes";
+"Drinks" = "Ichimliklar";
+"Travel" = "Sayohat";
+"Home" = "Uy-joy";
+"Bank" = "Bank";
+"Gasoline" = "Yoqilg‘i";
+"Salary" = "Oylik";
+"Additional Income" = "Qo‘shimcha daromad";
+"Investment" = "Sarmoyalar";
+"Partnership" = "Hamkorlik";
+
+// Add Money
+"ADD MONEY" = "PUL QO'SHISH";
+"Add money" = "Pul qo'shish";
+"income" = "daromad";
+"Money added successfully" = "Pul muvaffaqiyatli qo'shildi";
+
+// Choose Color
+"Select color" = "Rangni tanlang";
+
+// Add Account
+"ADD" = "QO'SHISH";
+"TITLE OF ACCOUNT" = "HISOB NOMI";
+"Add title" = "Nomi qo'shish";
+"Title can't be blank" = "Nom bo'sh bo'lishi mumkin emas";
+"CURRENCY" = "VALYUTA";
+"Currency can't be blank" = "Valyuta bo'sh bo'lishi mumkin emas";
+"CURRENT BALANCE" = "HOZIRGI BALANS";
+"Enter your current balance in account" = "Hisobingizdagi mablag' miqdorini kiriting";
+"COLOR" = "RANG";
+"Change color" = "Rangni o'zgartirish";
+"Add account" = "Hisob qo'shish";
+"Account created successfully" = "Hisob yaratildi";
+
+// Edit Account
+"Account updated successfully" = "Hisob o'zgartirildi";
+
+// Currencies
+"Select currency" = "Valyutani tanlang";
+
+// Accounts
+"Accounts" = "Hisoblar";
+"OVERALL BALANCE" = "JAMI BALANS";
+"overall balance" = "jamiy balans";
+"TRANSFER BETWEEN ACCOUNTS" = "HISOBLAR ORASIDA O'TKAZMA";
+
+// Exchange Rate
+"Rate of exchange" = "Valyuta kursi";
+"equals" = "teng";
+"Data provided by" = "Ma'lumot taqdim etilgan";
+
+// Choose Income Category
+"Select income category" = "Tanlash";
+"Edit-Inc" = "Tahrirlash";
+
+// Detail Account
+"Edit account-account" = "Hisobni tahrirlash";
+"Delete account-account" = "Hisobni o'chirish";
+"You can delete the account but current transactions will be saved for history" = "Hisobni o'chirishingiz mumkin, lekin tarix uchun tranzaksiyalarni saqlang";
+"Delete account & transactions" = "Hisob va tranzaksiyalarni o'chirish";
+
+// Category Type
+"Expense" = "Xarajatlar";
+"Income" = "Daromadlar";
+
+// Detail Transaction
+"Transaction details" = "Tranzaksiya tafsilotlari";
+"Date" = "Sana";
+"Category" = "Kategoriya";
+"Transaction ID" = "Tranzaksiya ID";
+"Type" = "Tur";
+"Transfer" = "O'tkazma";
+
+// Choose Icon
+"Choose icon" = "Belgini tanlang";
+
+// Choose Expense Category
+"Select category" = "Tanlash";
+"Edit-category" = "Tahrirlash";
+
+// Edit Categories
+"Add your first income category" = "Birinchi daromad kategoriyangizni qo'shing";
+"Add your first expense category" = "Birinchi xarajat kategoriyangizni qo'shing";
+"Tap the + icon to add a expense category" = "Kategoriya qo'shish uchun + tugmasini bosing";
+"YOUR INCOME CATEGORIES" = "SIZNING DAROMAD KATEGORIALARINGIZ";
+"YOUR EXPENSES CATEGORIES" = "SIZNING XARAJAT KATEGORIALARINGIZ";
+"Delete income category" = "Daromad kategoriyasini o'chirish";
+"Delete expense category" = "Xarajat kategoriyasini o'chirish";
+"Committed transactions with this category will remain" = "Ushbu kategoridagi tranzaksiyalar qoladi";
+"Category deleted successfully" = "Kategoriya o'chirildi";
+"Income categories" = "Daromad kategoriyalari";
+"Expenses categories" = "Xarajat kategoriyalari";
+
+// Add Category
+"ICON FOR CATEGORY" = "KATEGORIYA ICONI";
+"Choose icon for category" = "Kategoriya uchun belgi tanlang";
+"Icon required" = "Belgisi kerak";
+"TITLE OF CATEGORY" = "KATEGORIYA NOMI";
+"Add category" = "Kategoriya qo'shish";
+"Add category-act" = "Kategoriya qo'shish";
+"Category created successfully" = "Kategoriya muvaffaqiyatli yaratildi";
+
+// Edit Category
+"Edit category" = "Kategoriyani tahrirlash";
+"Category updated successfully" = "Kategoriya o'zgartirildi";
+
+// Main View
+"Transaction date" = "Sana";
+"Spend from" = "Qayerdan sarflandi";
+"Spend" = "Sarflash";
+"Today" = "Bugun";
+"Yesterday" = "Kecha";
+"Add transaction" = "Tranzaksiya qo'shish";
+"Expense-segment" = "Xarajat";
+"Income-segment" = "Daromad";
+"Add a note" = "Izoh qo'shish";
+"Note" = "Izoh";
+
+// Edit transaction
+"Transaction updated successfully" = "Tranzaksiya muvaffaqiyatli yangilandi";
+
+// Date
+"Select transaction date" = "Tranzaksiya sanasini tanlang";
+"Select date" = "Sana tanlang";
+
+// Choose Account
+"Select account" = "Hisobni tanlang";
+"ADD ACCOUNT" = "HISOB QOʻSHISH";
+
+// Feedback Manager
+"Support from iOS" = "Texnik qo'llab-quvvatlash, iOS";
+
+// APIManager
+"Server is not responding" = "Server javob bermaydi";
+
+// Budgeting Cell
+"Set budget" = "Sozlash";
+
+// Choose Language Cell
+"Select your language" = "Tilni tanlang";
+
+// Profile Premium Header
+"You have the Premium Version" = "Sizda Premium versiyasi mavjud";
+
+// Profile Default Header
+"Premium Version-Header" = "Премиум versiyasini olish";
+"Unlock access to all features" = "Barcha funksiyalarga kirishni oching";
+
+// Cash Flow Cell
+"Cash Flow" = "Pul oqimi";
+"expense" = "xarajatlar";
+
+// Transaction Overview Cell
+"prev period" = "avvalgi davr";
+"this period" = "bu davr";
+"average day" = "kuniga";
+
+// Transactions Button Cell
+"A list of all your transactions" = "Barcha tranzaksiyalaringiz ro'yxati";
+
+// Choose Currency Cell
+"Select your account currency" = "Hisobingiz valyutasini tanlang";
+
+// Add Category Cell
+"Add new category" = "Yangi kategoriya qo'shish";
+"Think up a name and choose an icon" = "Nomini kiriting va belgi tanlang";
+
+// Subscriptions
+"Failed" = "Muvaffaqiyatsiz";
+"Restore Failed" = "Tiklash amalga oshmadi";
+"Success" = "Muvaffaqiyat";
+"Restore Success" = "Xaridlar tiklandi";
+"Nothing to Restore" = "Hech qanday xarid yoʻq. Tiklash uchun hech narsa yoʻq";
+
+// Push notifications
+"Don't forget to add your expenses" = "Xarajatlaringizni qo‘shishni unutmang";
+"Hi! Add your expenses. 💸💸💸 It's gonna be quick." = "Salom! Xarajatlaringizni qo‘shing. 💸💸💸 Bu tez bo‘ladi.";
+"Forgot to save your expenses? 💸💸💸 It's gonna be quick." = "Xarajatlaringizni saqlashni unutdingizmi? 💸💸💸 Bu tez bo‘ladi.";
+
+// Default Account
+"My money" = "Mening pulim";
+
+// Support
+"Write to Us. We're online" = "Bizga yozing. Biz onlaymiz";
+
+// Paywall
+"Monthly-paywall" = "Oylik";
+"Yearly-paywall" = "Yillik";
+"Lifetime-paywall" = "Ajal";
+"Lifetime-plan" = "AJAL REJIMI";
+"Annual-paywall" = "Yillik";
+"one payment" = "bir martalik to‘lov";
+"7 days free trial" = "7 kunlik bepul sinov";
+"after a 7-day trial period" = "7 kunlik sinov muddati tugagach";
+"SAVE 70%" = "70% NI SAQLANG";
+"Save 70%-lowercase" = "70% saqlang";
+"Start Free Trial" = "Bepul sinovni boshlang";
+"Unlimited budgeting-paywall" = "Cheklanmagan byudjet tuzish";
+"per month-paywall" = "oyi";
+"Start" = "Boshlash";
+"Are you sure?-paywall" = "Ishonchingiz komilmi?";
+"Premium members are 65% more likely to achieve their financial goals" = "Premium a’zolar moliyaviy maqsadlariga erishish ehtimoli 65% yuqoridir";
+"Yes" = "Ha";
+"Try Again" = "Qayta urinib ko‘ring";
+
+"per month" = "oyi";
+"per year" = "yiliga";
+"pay once" = "bir martalik to‘lov";
+
+"Most popular" = "Eng mashhuri";
+
+"Continue" = "Davom etish";
+
+"Terms of Service" = "Xizmat ko‘rsatish shartlari";
+"Restore Purchases" = "Sotib olishlarni tiklash";
+
+
+"How it works" = "Qanday ishlaydi";
+"Get full access to all features \nand premium status" = "Barcha funksiyalarga to‘liq kirishni va premium statusni oling";
+"Day 6" = "6-kun";
+"Get a notification when your trial \nis about to end" = "Sinovingiz tugashidan";
+"Day 7" = "7-kun";
+"Monetika Premium starts \nautomatically. Cancel before to \navoid charge." = "Monetika Premium avtomatik ravishda boshlanadi.";
+"7 days free, then" = "7 kun bepul, keyin";
+" %@/year" = "%@/yil";
+
+// Tab Bar
+"Add" = "Qo‘shish";
+"Budget" = "Byudjet";
+
+// Onboarding
+"Select accounts" = "Hisoblarni tanlang";
+"Bank Card" = "Bank kartasi";
+"Deposit" = "Ombor";
+"Choose expense categories" = "Xarajat kategoriyalarini tanlang";
+"Choose income categories" = "Daromad kategoriyalarini tanlang";
+"Rent" = "Ijaraga olish";
+"Get started" = "Boshlang";
+
+// Welcome
+"Hey there! You're in the right place" = "Salom!";
+"We'll help you start managing your finances and improve your life" = "Biz moliyalaringizni boshqarishni boshlashda va hayotingizni yaxshilashda sizga yordam beramiz";
+"Get started" = "Boshlang";
+"Get full access" = "To‘liq kirishni oling";
+
+// 3D Onboarding
+"Add expenses quickly" = "Xarajatlarni tezda qo‘shing";
+"We made expenses adding experience \nexceptionally instantaneous" = "Biz xarajatlarni qo'shish jarayonini \najoyib darajada tezlashtirdik";
+"All money in one place" = "Barcha pul bir joyda";
+"Get a perfectly clear vision of how much money \nyou have in all your accounts and cash. Anytime." = "Hamma hisoblaringizda va naqd pulingizda qancha pulingiz borligini mukammal tarzda ko'ring. Istalgan vaqtda.";
+"Make a plan" = "Reja tuzish";
+"Plan your budget for the month. \nAnd stay calm." = "Oylik byudjetingizni rejalashtiring. \nVa tinch bo'ling.";
+"Where does my money go?" = "Mening pulim qaerga ketmoqda?";
+"Keep track of all your expenses \nand optimize your spending." = "Barcha xarajatlaringizni kuzatib boring \nvə sarf-xarajatlaringizni optimallashtiring.";
+
+// Onboarding Investment
+"What are your goals?" = "Maqsadlaringiz nima?";
+"To understand where the money goes" = "Pulning qaerga ketishini tushunish uchun";
+"To reduce stress" = "Stressni kamaytirish uchun";
+"To improve your wealth" = "Boyligingizni yaxshilash uchun";
+"To plan future expenses" = "Kelajakdagi xarajatlarni rejalashtirish uchun";
+"To start saving" = "Tejashni boshlash uchun";
+"How many times a day will you add expenses?" = "Kunda necha marta xarajat qo'shasiz?";
+"Once a day" = "Bir marta kuniga";
+"Twice a day" = "Ikki marta kuniga";
+"After each purchase I make" = "Har bir xaridimdan so'ng";
+"This is 3 times more often than most people" = "Bu ko'pchilikdan 3 barobar ko'proq";
+"3 times" = "3 barobar";
+"People forget to add their expenses and go back to the old way of life" = "Odamlar xarajatlarini qo'shishni unutadi va eski hayot tarziga qaytadi";
+"What do you spend most of your money on?" = "Pulingizni ko'pincha nimaga sarflaysiz?";
+"Groceries" = "Mahsulotlar";
+"How did you manage your expenses before?" = "Xarajatlaringizni oldin qanday boshqarganingizni";
+"Excel" = "Excel";
+"Notes" = "Qaydlar";
+"Another app" = "Boshqa ilova";
+"I didn't" = "Men qilmadim";
+
+// Chart Paywall
+"Get the Financial freedom you’ve always wanted. On your terms!" = "Har doim orzu qilgan moliyaviy erkinlikni oling. \nO'z shartlaringiz bilan!";
+"Financial freedom" = "Moliyaviy erkinlik";
+"Let’s get unlimited version! Try 3-day free trial, then%@. Cancel anytime." = "Cheksiz versiyani olish uchun! 3 kunlik bepul sinab ko'ring, keyin%@. Istalgan vaqtda bekor qiling.";
+
+// Inside September Paywall
+"Already purchased?" = "Allaqachon sotib olganmisiz?";
+"Unlock Premium version" = "Premium versiyasini ochish";
+"No commitments, cancel anytime" = "Hech qanday majburiyat yo'q, istalgan vaqtda bekor qiling";
+"Monthly-inside-paywall" = "Oylik";
+"3-day free trial" = "3 kunlik bepul sinov";
+"70% OFF" = "70% CHEGIRMA";
+"/yearly" = "/yillik";
+"/monthly" = "/oylik";
+"(one-time payment)" = "(bir martalik to'lov)";
+"Try 3 Days Free" = "3 kun bepul sinab ko'ring";
+
+// Analytics
+"Analytics" = "Analitika";
+"Total spending" = "Umumiy xarajat";
+"Total" = "Umumiy";
+"Show transactions" = "Tranzaksiyalarni ko'rsatish";
+"Spent in the past period" = "So'nggi davrda sarflangan";
+"Average per day" = "Kuniga o'rtacha";
+"By sum" = "Miqdor bo'yicha";
+"By number of transactions" = "Tranzaksiya soni bo'yicha";
+"Net Balance" = "Sof balans";
+"Filter by" = "Bo'yicha filtr";
+"Sort by" = "Bo'yicha tartiblash";
+"Sum" = "Jami";
+"Number of transactions" = "Operatsiyalar soni";
+"Total income" = "Jami daromad";
+"Income in the past period" = "Oxirgi davrdagi daromad";
+"No data to display" = "Ko‘rsatish uchun ma’lumot mavjud emas";
+"Start add transactions to track \nyour spendings" = "Xarajatlaringizni kuzatish uchun tranzaktsiyalar qo‘shishni boshlang \nXarajatlaringizni kuzatish";
+"No transactions for \nthe selected period" = "Tanlangan davr uchun \ntranzaktsiyalar mavjud emas";
+"ADD FIRST TRANSACTION" = "ILK TRANSAKTSIYANI QO‘SHING";
+
+// February update
+"Show double decimals" = "Ikkita o'nlik raqamlarni ko‘rsatish";
+"Advanced analytics" = "Ilg‘or tahlillar";
+"Detail transactions" = "Tranzaktsiyalar tafsilotlari";
+"available in premium version" = "Premium versiyada mavjud";
+"Unlock my transactions" = "Tranzaktsiyalarimni ochish";
+
+// 15.02.2022 update
+"Unlock analytics" = "Analitikani ochish";
+"to see nice and useful graphs here" = "Bu yerda chiroyli va foydali grafikalarni ko‘rish uchun";
+"Add Expense" = "Xarajat qo‘shish";
+
+// 23.02.2022 update
+"NEW ACCOUNT" = "YANGI HISOB";
+"Create\nNew Account" = "Yaratish\nYangi hisob";
+"CREATE" = "YARATISH";
+"Add\nmoney" = "Pul\nqo‘shish";
+"Adjust\nbalance" = "Balansni\no‘zgartirish";
+"Edit\naccount" = "Hisobni\ntahrirlash";
+"More\n" = "Ko‘proq";
+
+// 21.03.2022 update
+"NEW CATEGORY" = "YANGI KATEGORIYA";
+"New Category" = "Yangi Kategoriya";
+"Change icon" = "Belgini o‘zgartirish";
+"Delete category" = "Kategoriyani o‘chirish";
+
+// App Icon
+"App Icon" = "Dastur belgisi";
+
+// July 2024 CTA AB Test
+"Get 3 days free" = "3 kun bepul oling";
+"Start your free trial" = "Bepul sinov muddatini boshlang";
+"Try Free & Subscribe" = "Bepul sinab ko‘ring va obuna bo‘ling";
+
+// September 2024 Paywall 'Maybe Later' AB Test
+"Maybe Later" = "Keyinroq";
+
+// Manage Subscription
+"Manage your subscription" = "Obunangizni boshqarish";
+
+// Security Manager
+"Passcode & Face ID" = "Parol va Yuz ID";
+"Please confirm your identity to access the app" = "Iltimos, dasturga kirish uchun shaxsingizni tasdiqlang";
+"Authentication Required" = "Autentifikatsiya talab qilinadi";
+"Please authenticate to access the app" = "Dasturga kirish uchun iltimos, autentifikatsiyadan o‘ting";
+"REQUIRE AUTHENTICATION" = "AUTENTIFIKATSIYA TALAB QILINADI";
+"Immediately" = "Darhol";
+"After 30 seconds" = "30 sekunddan keyin";
+"After 3 minutes" = "3 daqiqadan keyin";
+"After 10 minutes" = "10 daqiqadan keyin";
+
+// Ratings Screen
+"Give us rating" = "Bizga baho bering";
+"This app was designed for people like you" = "Bu dastur siz kabi odamlar uchun mo‘ljallangan edi";
+"+ 100 000 people" = "+ 100 000 odamlar";
+"Best budget app EVER! 🙏" = "Eng yaxshi byudjet dasturi HADMUI! 🙏";
+"1m ago" = "1 minut oldin";
+"Switched to Monetika, and it's a game-changer! Easy to use, clean UI, and excellent customer support. 100% recommended!" = "Monetika’ga o‘tdim va bu o‘yinni o‘zgartiradi! Foydalanish oson, toza UI va a’lo mijoz qo‘llab-quvvatlashi. 100% tavsiya etiladi!";
+"Life-Changing App! Simplified My Chaos!" = "Hayotni o‘zgartiruvchi Dastur! Kelishmovchiligimni soddalashtirdi!";
+"I've tried countless budgeting apps and none of them really worked for me. This one did. It's simplicity and straightforward interface is the best, also I can log new transactions so much quicker than the other apps. 3 seconds faster may not seem like much but when you want to do it quickly for each transaction it adds up" = "Cheksiz byudjet dasturlarini sinab ko‘rdim, va hech biri meni haqiqatan ham ishlamadi. Bu esa berdi. Uning soddaligi va to‘g‘ri interfeysi eng yaxshi, shuningdek, men yangi tranzaktsiyalarni boshqa dasturlarga qaraganda ancha tezroq qo‘shishim mumkin. 3 soniya tezroq bo‘lishi katta ko‘rinmasa ham, har bir tranzaktsiyani tezda qilishni xohlaganingizda yig‘iladi.";
+"10/10. Highly satisfied" = "10/10. Juda mamnun";
+"2m ago" = "2 daqiqa oldin";
+"I have been using the Monetika for 6 months. And I have to say, it's THE BEST in the market. I have everything that I need for my personal finances in this app. And what I like the most is that I have more flexibility in customization than any other money management app. Kudos to the developers." = "Men Monetikani 6 oydan beri ishlatmoqdaman. Va aytishim kerakki, u bozordagi ENG YAXSHI. Ushbu ilovada shaxsiy moliyam uchun kerakli hamma narsaga ega bo‘ldim. Eng yoqtirgan jihatim esa, har qanday boshqa pul boshqarish ilovasidan ko‘ra, sozlashda ko‘proq moslashuvchanligim bor. Dasturchilarga katta rahmat.";
+
+// 10.01.2025 Update
+"✓ No Payment Due Now" = "✓ Hozirda To'lov Qolmagan";
+
+// 22.01.2025 Update
+"Enhanced" = "Yaxshilangan";
+
+// 29.01.2025 Update
+"Export to CSV" = "CSVga Eksport qilish";
+"Account" = "Hisob";
+"Include in total balance" = "Umumiy balansga qo‘shish";
+"Archive account" = "Hisobni arxivlash";
+"Hide archived accounts" = "Arxivlangan hisoblarni yashirish";
+"Archived accounts" = "Arxivlangan hisoblar";
+
+// 25.02.2025 Update
+"Delete data" = "Ma'lumotlarni o‘chirish";
+"Delete All Data" = "Barcha Ma'lumotlarni o‘chirish";
+"Erases everything (accounts, categories, transactions, budgets)" = "Hammasini o‘chiradi (hisoblar, kategoriyalar, tranzaksiyalar, byudjetlar)";
+"Delete All Transactions" = "Barcha Tranzaksiyalarni o‘chirish";
+"Clears only transactions, keeps other data" = "Faqat tranzaksiyalarni tozalaydi, boshqa ma'lumotlarni saqlaydi";
+"Delete Confirmation" = "O‘chirishni Tasdiqlash";
+"Are you sure you want to delete this data? This action cannot be undone." = "Ushbu ma'lumotlarni o‘chirmoqchimisiz? Bu amal qaytarib bo‘lmaydi.";
+
+// 27.02.2025 Update
+"No transactions yet" = "Hanuz tranzaksiya yo‘q";
+"Track your spending – add a transaction now" = "Xarajatlaringizni kuzatib boring – endi tranzaksiya qo‘shing";
+"Track your income – add a transaction now" = "Daromadingizni kuzatib boring – endi tranzaksiya qo‘shing";
+"Add income" = "Daromad qo‘shish";
+"Reset filter" = "Filterni tiklash";

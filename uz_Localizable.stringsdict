@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plist version="1.0">
+<dict>
+	<key>transactions count</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@v1_transactions_count@</string>
+		<key>v1_transactions_count</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>Hech qanday tranzaksiya yo‘q</string>
+			<key>one</key>
+			<string>%d tranzaksiya</string>
+			<key>few</key>
+			<string>%d tranzaksiyalar</string>
+			<key>many</key>
+			<string>%d tranzaksiyalar</string>
+			<key>other</key>
+			<string>%d tranzaksiyalar</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
